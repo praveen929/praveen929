@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **advanced full Stack topics.**
 
-- 💬 Ask me about **HTML , CSS , JavaScript , Git, GitHub**
+- 💬 Ask me about **HTML , CSS , JavaScript , Git, GitHub , Java , PHP , Spring Boot , JDBC , Servlet , DSA**
 
 - 📫 How to reach me **praveensharma91473@gmail.com**
 
